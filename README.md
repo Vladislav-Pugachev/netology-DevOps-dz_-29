@@ -29,7 +29,7 @@
 pugachevvv@debian-vlad:~$ terraform --version
 Terraform v1.1.6
 on linux_amd64
-
+```
 
 ## 3.
 
@@ -48,5 +48,3 @@ pugachevvv@debian-vlad:/usr/local/tf/1_1_17$
 
 ```
 
-
-```
