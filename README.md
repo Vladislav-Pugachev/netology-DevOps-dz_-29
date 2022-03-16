@@ -31,4 +31,22 @@ Terraform v1.1.6
 on linux_amd64
 
 
+## 3.
+
+```
+pugachevvv@debian-vlad:/usr/local/tf/1_1_17$ terraform -version
+Terraform v1.1.6
+on linux_amd64
+
+Your version of Terraform is out of date! The latest version
+is 1.1.7. You can update by downloading from https://www.terraform.io/downloads.html
+pugachevvv@debian-vlad:/usr/local/tf/1_1_17$ terraform11_17 -version
+Terraform v1.1.7
+on linux_amd64
+pugachevvv@debian-vlad:/usr/local/tf/1_1_17$ 
+
+
+```
+
+
 ```
